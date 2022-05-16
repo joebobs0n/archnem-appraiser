@@ -2,26 +2,26 @@
   "_SYNERGY_MULT": 1.2,
   "_KEY": [
     [
-      "Mods"
+      "mods"
     ],
     [
-      "Attack Rating (AR)",
-      "AR Type"
+      "attack rating (ar)",
+      "ar type"
     ],
     [
-      "Defense Rating (DR)",
-      "DR Type"
+      "defense rating (dr)",
+      "dr type"
     ],
     [
-      "Build Break Rating (BBR)",
-      "BBR Type"
+      "build break rating (bbr)",
+      "bbr type"
     ]
   ],
-  "Hasted": [
+  "hasted": [
     [
-      "40% increased Movement Speed",
-      "100% increased Evasion Rating",
-      "Nearby Allies have 30% increased Attack and Cast Speed"
+      "40% increased movement speed",
+      "100% increased evasion rating",
+      "nearby allies have 30% increased attack and cast speed"
     ],
     [
       1,
@@ -36,11 +36,11 @@
       ""
     ]
   ],
-  "Gargantuan": [
+  "gargantuan": [
     [
-      "20% increased Damage",
-      "40% increased maximum Life",
-      "80% increased Area of Effect"
+      "20% increased damage",
+      "40% increased maximum life",
+      "80% increased area of effect"
     ],
     [
       1,
@@ -55,15 +55,15 @@
       ""
     ]
   ],
-  "Flameweaver": [
+  "flameweaver": [
     [
-      "25% of Physical Damage Converted to Fire Damage",
-      "50% of Physical Damage as Extra Fire Damage",
-      "50% increased Fire Damage",
-      "+50% to Fire Resistance",
-      "+10% to maximum Fire Resistance",
-      "Immune to Scorch",
-      "Inflicts Fire Exposure on Hit"
+      "25% of physical damage converted to fire damage",
+      "50% of physical damage as extra fire damage",
+      "50% increased fire damage",
+      "+50% to fire resistance",
+      "+10% to maximum fire resistance",
+      "immune to scorch",
+      "inflicts fire exposure on hit"
     ],
     [
       2,
@@ -78,15 +78,15 @@
       "immune"
     ]
   ],
-  "Stormweaver": [
+  "stormweaver": [
     [
-      "25% of Physical Damage Converted to Lightning Damage",
-      "50% of Physical Damage as Extra Lightning Damage",
-      "50% increased Lightning Damage",
-      "+50% to Lightning Resistance",
-      "+10% to maximum Lightning Resistance",
-      "Immune to Lightning Ailments",
-      "Inflicts Lightning Exposure on Hit"
+      "25% of physical damage converted to lightning damage",
+      "50% of physical damage as extra lightning damage",
+      "50% increased lightning damage",
+      "+50% to lightning resistance",
+      "+10% to maximum lightning resistance",
+      "immune to lightning ailments",
+      "inflicts lightning exposure on hit"
     ],
     [
       2,
@@ -101,15 +101,15 @@
       "immune"
     ]
   ],
-  "Frostweaver": [
+  "frostweaver": [
     [
-      "25% of Physical Damage Converted to Cold Damage",
-      "50% of Physical Damage as Extra Cold Damage",
-      "50% increased Cold Damage",
-      "+50% to Cold Resistance",
-      "+10% to maximum Cold Resistance",
-      "Immune to Cold Ailments",
-      "Inflicts Cold Exposure on Hit"
+      "25% of physical damage converted to cold damage",
+      "50% of physical damage as extra cold damage",
+      "50% increased cold damage",
+      "+50% to cold resistance",
+      "+10% to maximum cold resistance",
+      "immune to cold ailments",
+      "inflicts cold exposure on hit"
     ],
     [
       2,
@@ -124,13 +124,13 @@
       "immune"
     ]
   ],
-  "Chaosweaver": [
+  "chaosweaver": [
     [
-      "25% of Physical Damage Converted to Chaos Damage",
-      "15% of Non-Chaos Damage as extra Chaos Damage",
-      "+50% to Chaos Resistance",
-      "+10% to maximum Chaos Resistance",
-      "Immune to Wither"
+      "25% of physical damage converted to chaos damage",
+      "15% of non-chaos damage as extra chaos damage",
+      "+50% to chaos resistance",
+      "+10% to maximum chaos resistance",
+      "immune to wither"
     ],
     [
       2,
@@ -145,12 +145,12 @@
       "immune"
     ]
   ],
-  "Steel-infused": [
+  "steel-infused": [
     [
-      "Overwhelm 30% Physical Damage Reduction",
-      "40% increased Physical Damage",
-      "50% additional Physical Damage Reduction",
-      "Cannot be Stunned"
+      "overwhelm 30% physical damage reduction",
+      "40% increased physical damage",
+      "50% additional physical damage reduction",
+      "cannot be stunned"
     ],
     [
       2,
@@ -165,14 +165,14 @@
       "immune"
     ]
   ],
-  "Incendiary": [
+  "incendiary": [
     [
-      "Ignites on Hit",
-      "All Damage with Hits can Ignite",
-      "25% increased Ignite Duration",
-      "300% increased Ignite Damage",
-      "+75% to Fire Resistance",
-      "60% less Duration of Ignites on Self"
+      "ignites on hit",
+      "all damage with hits can ignite",
+      "25% increased ignite duration",
+      "300% increased ignite damage",
+      "+75% to fire resistance",
+      "60% less duration of ignites on self"
     ],
     [
       3,
@@ -187,13 +187,13 @@
       "less"
     ]
   ],
-  "Dynamo": [
+  "dynamo": [
     [
-      "Shocks on Hit",
-      "All damage with Hits can Shock",
-      "25% increased Shock Effect",
-      "50% increased Shock Duration",
-      "Immune to Shock"
+      "shocks on hit",
+      "all damage with hits can shock",
+      "25% increased shock effect",
+      "50% increased shock duration",
+      "immune to shock"
     ],
     [
       1,
@@ -208,12 +208,12 @@
       "immune"
     ]
   ],
-  "Permafrost": [
+  "permafrost": [
     [
-      "25% chance to Freeze on Hit",
-      "All damage with Hits can Freeze",
-      "25% increased Freeze Duration",
-      "Immune to Freeze and Chill"
+      "25% chance to freeze on hit",
+      "all damage with hits can freeze",
+      "25% increased freeze duration",
+      "immune to freeze and chill"
     ],
     [
       0,
@@ -228,13 +228,13 @@
       "immune"
     ]
   ],
-  "Toxic": [
+  "toxic": [
     [
-      "Poisons on Hit",
-      "All damage with Hits can Poison",
-      "30% increased Poison Damage",
-      "30% increased Poison Duration",
-      "+50% to Chaos Resistance against Damage over Time"
+      "poisons on hit",
+      "all damage with hits can poison",
+      "30% increased poison damage",
+      "30% increased poison duration",
+      "+50% to chaos resistance against damage over time"
     ],
     [
       1,
@@ -249,13 +249,13 @@
       "less"
     ]
   ],
-  "Bloodletter": [
+  "bloodletter": [
     [
-      "Bleed on Hit",
-      "100% increased Damage with Bleeding",
-      "25% increased Bleeding Duration",
-      "25% reduced Damage taken from Physical Damage over Time",
-      "Nearby Enemies are Maimed with 30% reduced Movement Speed"
+      "bleed on hit",
+      "100% increased damage with bleeding",
+      "25% increased bleeding duration",
+      "25% reduced damage taken from physical damage over time",
+      "nearby enemies are maimed with 30% reduced movement speed"
     ],
     [
       4,
@@ -270,11 +270,11 @@
       "less"
     ]
   ],
-  "Splinterer": [
+  "splinterer": [
     [
-      "Skills fire 4 additional Projectiles",
-      "30% increased Projectile Damage",
-      "50% chance to Avoid Projectiles"
+      "skills fire 4 additional projectiles",
+      "30% increased projectile damage",
+      "50% chance to avoid projectiles"
     ],
     [
       2,
@@ -289,13 +289,13 @@
       ""
     ]
   ],
-  "Deadeye": [
+  "deadeye": [
     [
-      "Randomly applies Poacher's Mark, Assassin's Mark or Warlord's Mark",
-      "20% increased Damage",
-      "60% less Damage taken if you have not been Hit Recently",
-      "200% increased Evasion Rating if you have been Hit Recently",
-      "Nearby Allies have 100% increased Accuracy Rating and 100% increased Critical Strike Chance"
+      "randomly applies poacher's mark, assassin's mark or warlord's mark",
+      "20% increased damage",
+      "60% less damage taken if you have not been hit recently",
+      "200% increased evasion rating if you have been hit recently",
+      "nearby allies have 100% increased accuracy rating and 100% increased critical strike chance"
     ],
     [
       3,
@@ -310,12 +310,12 @@
       ""
     ]
   ],
-  "Arcane Buffer": [
+  "arcane buffer": [
     [
-      "150% faster start of Energy Shield Recharge",
-      "Chaos Damage taken does not bypass Energy Shield",
-      "When Energy Shield is depleted, triggers a weak nova that knocks back and briefly stuns enemies",
-      "Nearby Allies have 40% of Maximum Life as Extra Maximum Energy Shield"
+      "150% faster start of energy shield recharge",
+      "chaos damage taken does not bypass energy shield",
+      "when energy shield is depleted, triggers a weak nova that knocks back and briefly stuns enemies",
+      "nearby allies have 40% of maximum life as extra maximum energy shield"
     ],
     [
       0,
@@ -330,11 +330,11 @@
       ""
     ]
   ],
-  "Echoist": [
+  "echoist": [
     [
-      "Skills Repeat two additional times",
-      "200% increased Attack and Cast Speed",
-      "Stunned for 1.5 seconds after using a Skill"
+      "skills repeat two additional times",
+      "200% increased attack and cast speed",
+      "stunned for 1.5 seconds after using a skill"
     ],
     [
       2,
@@ -349,14 +349,14 @@
       ""
     ]
   ],
-  "Bonebreaker": [
+  "bonebreaker": [
     [
-      "Always Stuns Enemies on Hit",
-      "25% chance to Double Stun Duration",
-      "30% reduced Attack and Cast Speed",
-      "100% increased Accuracy Rating",
-      "Cannot be Stunned",
-      "Nearby Allies have 40% increased Physical Damage"
+      "always stuns enemies on hit",
+      "25% chance to double stun duration",
+      "30% reduced attack and cast speed",
+      "100% increased accuracy rating",
+      "cannot be stunned",
+      "nearby allies have 40% increased physical damage"
     ],
     [
       2,
@@ -371,13 +371,13 @@
       "immune"
     ]
   ],
-  "Sentinel": [
+  "sentinel": [
     [
-      "50% chance to Block Attack Damage",
-      "50% chance to Block Spell Damage",
-      "+10% to maximum Chance to Block Attack Damage",
-      "+10% to maximum Chance to Block Spell Damage",
-      "Triggers a Delayed Reckoning when Hit (1.5 second Cooldown)"
+      "50% chance to block attack damage",
+      "50% chance to block spell damage",
+      "+10% to maximum chance to block attack damage",
+      "+10% to maximum chance to block spell damage",
+      "triggers a delayed reckoning when hit (1.5 second cooldown)"
     ],
     [
       0,
@@ -392,15 +392,15 @@
       ""
     ]
   ],
-  "Juggernaut": [
+  "juggernaut": [
     [
-      "20% increased Damage",
-      "+2 to Maximum Endurance Charges",
-      "Gain 2 Endurance Charges every second if you've been Hit Recently",
-      "30% increased Area of Effect",
-      "Action Speed cannot be modified to below base value",
-      "Movement Speed cannot be modified to below base value",
-      "Cannot be Stunned"
+      "20% increased damage",
+      "+2 to maximum endurance charges",
+      "gain 2 endurance charges every second if you've been hit recently",
+      "30% increased area of effect",
+      "action speed cannot be modified to below base value",
+      "movement speed cannot be modified to below base value",
+      "cannot be stunned"
     ],
     [
       1,
@@ -415,13 +415,13 @@
       "immune"
     ]
   ],
-  "Vampiric": [
+  "vampiric": [
     [
-      "All Damage from Hits is Leeched as Life",
-      "Life Leech effects are not removed on Full Life",
-      "200% increased total Recovery per second from Life Leech",
-      "25% increased Damage while Leeching",
-      "Enemies Cannot Leech From You"
+      "all damage from hits is leeched as life",
+      "life leech effects are not removed on full life",
+      "200% increased total recovery per second from life leech",
+      "25% increased damage while leeching",
+      "enemies cannot leech from you"
     ],
     [
       1,
@@ -436,10 +436,10 @@
       "immune"
     ]
   ],
-  "Overcharged": [
+  "overcharged": [
     [
-      "+2 to Maximum Frenzy, Power and Endurance Charges",
-      "Every 3 seconds adds 3 Frenzy, Power or Endurance charges for 9 seconds"
+      "+2 to maximum frenzy, power and endurance charges",
+      "every 3 seconds adds 3 frenzy, power or endurance charges for 9 seconds"
     ],
     [
       1,
@@ -454,11 +454,11 @@
       ""
     ]
   ],
-  "Consecrator": [
+  "consecrator": [
     [
-      "Spawns Consecrated Ground for 6 seconds (6 second cooldown, 4 second global cooldown)",
-      "Consecrated Ground grants 2% Life Regenerated Per Second to Allies and 50% reduced Effect of Curses",
-      "Take 30% reduced Elemental Damage while on Consecrated Ground"
+      "spawns consecrated ground for 6 seconds (6 second cooldown, 4 second global cooldown)",
+      "consecrated ground grants 2% life regenerated per second to allies and 50% reduced effect of curses",
+      "take 30% reduced elemental damage while on consecrated ground"
     ],
     [
       1,
@@ -473,12 +473,12 @@
       ""
     ]
   ],
-  "Frenzied": [
+  "frenzied": [
     [
-      "Every 9 seconds become Frenzied for 5 seconds",
-      "50% increased Damage while Frenzied",
-      "50% increased Action Speed while Frenzied",
-      "50% reduced Damage Taken while Frenzied"
+      "every 9 seconds become frenzied for 5 seconds",
+      "50% increased damage while frenzied",
+      "50% increased action speed while frenzied",
+      "50% reduced damage taken while frenzied"
     ],
     [
       3,
@@ -493,13 +493,13 @@
       ""
     ]
   ],
-  "Berserker": [
+  "berserker": [
     [
-      "Gains Increased Damage with life lost up to 40% at zero life",
-      "Gains Increased Movement Speed with life lost up to 40% at zero life",
-      "Gains Increased Attack and Cast Speed with life lost up to 75% at zero life",
-      "Gains reduced Damage Taken with life lost up to 30% at zero life",
-      "Immune to Culling Strike"
+      "gains increased damage with life lost up to 40% at zero life",
+      "gains increased movement speed with life lost up to 40% at zero life",
+      "gains increased attack and cast speed with life lost up to 75% at zero life",
+      "gains reduced damage taken with life lost up to 30% at zero life",
+      "immune to culling strike"
     ],
     [
       3,
@@ -514,9 +514,9 @@
       "immune"
     ]
   ],
-  "Soul Conduit": [
+  "soul conduit": [
     [
-      "Nearby monsters are raised to fight again on Death"
+      "nearby monsters are raised to fight again on death"
     ],
     [
       1,
@@ -531,9 +531,9 @@
       ""
     ]
   ],
-  "Oppressor": [
+  "oppressor": [
     [
-      "Nearby Enemies have Oppression, causing them to deal 30% less Damage, take 30% increased Damage and have 20% reduced Movement Speed"
+      "nearby enemies have oppression, causing them to deal 30% less damage, take 30% increased damage and have 20% reduced movement speed"
     ],
     [
       3,
@@ -548,13 +548,13 @@
       ""
     ]
   ],
-  "Bombardier": [
+  "bombardier": [
     [
-      "Skills fire 2 additional Projectiles",
-      "Skills Chain 2 additional times",
-      "Projectiles have 20% chance to be able to Chain when colliding with terrain",
-      "Projectiles gain Damage as they travel farther, dealing up to 60% increased Damage with Hits to targets",
-      "Periodically Fires a Nova of Fire Mortars (6 second cooldown)"
+      "skills fire 2 additional projectiles",
+      "skills chain 2 additional times",
+      "projectiles have 20% chance to be able to chain when colliding with terrain",
+      "projectiles gain damage as they travel farther, dealing up to 60% increased damage with hits to targets",
+      "periodically fires a nova of fire mortars (6 second cooldown)"
     ],
     [
       3,
@@ -569,10 +569,10 @@
       ""
     ]
   ],
-  "Heralding Minions": [
+  "heralding minions": [
     [
-      "Rare Minions spawn Invulnerable Totems on death that cast a Lightning Nova Spell",
-      "Totems despawn on death"
+      "rare minions spawn invulnerable totems on death that cast a lightning nova spell",
+      "totems despawn on death"
     ],
     [
       2,
@@ -587,11 +587,11 @@
       ""
     ]
   ],
-  "Empowering Minions": [
+  "empowering minions": [
     [
-      "Rare Minions have 30% increased Damage",
-      "Rare Minions have 100% increased maximum Life",
-      "Gain a random common Archnemesis Mod when a Rare Minion dies (maximum 3)"
+      "rare minions have 30% increased damage",
+      "rare minions have 100% increased maximum life",
+      "gain a random common archnemesis mod when a rare minion dies (maximum 3)"
     ],
     [
       3,
@@ -606,13 +606,13 @@
       ""
     ]
   ],
-  "Necromancer": [
+  "necromancer": [
     [
-      "Rare Minions have 40% increased Damage",
-      "Rare Minions have 150% increased maximum Life",
-      "30% increased maximum Life",
-      "10% of Non-Chaos Damage as extra Chaos Damage",
-      "Summons Skeletons and Zombies"
+      "rare minions have 40% increased damage",
+      "rare minions have 150% increased maximum life",
+      "30% increased maximum life",
+      "10% of non-chaos damage as extra chaos damage",
+      "summons skeletons and zombies"
     ],
     [
       3,
@@ -627,13 +627,13 @@
       ""
     ]
   ],
-  "Assassin": [
+  "assassin": [
     [
-      "All hits are Critical Strikes",
-      "Blind on Hit",
-      "100% increased Blind Effect",
-      "Take no Extra Damage from Critical Strikes",
-      "Teleports to distant Enemies creating a Smoke Cloud (3 second cooldown)"
+      "all hits are critical strikes",
+      "blind on hit",
+      "100% increased blind effect",
+      "take no extra damage from critical strikes",
+      "teleports to distant enemies creating a smoke cloud (3 second cooldown)"
     ],
     [
       4,
@@ -648,12 +648,12 @@
       ""
     ]
   ],
-  "Rejuvenating": [
+  "rejuvenating": [
     [
-      "Regenerate 2% of Life per second",
-      "20% increased maximum Life",
-      "Periodically casts a Healing Nova that causes nearby allies to regenerate 50% of life over 2 seconds as well as preventing players from recovering Life or Energy Shield (8 second cooldown, 5 second global cooldown)",
-      "Healing Nova does not affect itself"
+      "regenerate 2% of life per second",
+      "20% increased maximum life",
+      "periodically casts a healing nova that causes nearby allies to regenerate 50% of life over 2 seconds as well as preventing players from recovering life or energy shield (8 second cooldown, 5 second global cooldown)",
+      "healing nova does not affect itself"
     ],
     [
       0,
@@ -668,11 +668,11 @@
       ""
     ]
   ],
-  "Executioner": [
+  "executioner": [
     [
-      "15% Damage with Hits per 10% missing Enemy Life",
-      "Immune to Culling Strike",
-      "Nearby Enemies cannot Recover Life or Energy Shield to above 50%"
+      "15% damage with hits per 10% missing enemy life",
+      "immune to culling strike",
+      "nearby enemies cannot recover life or energy shield to above 50%"
     ],
     [
       3,
@@ -687,10 +687,10 @@
       "immune"
     ]
   ],
-  "Hexer": [
+  "hexer": [
     [
-      "Hexproof",
-      "Summons an invulnerable Hexing Effigy that places 3 randomly selected Hex areas, chosen from Temporal Chains, Enfeeble, Elemental Weakness, Punishment and Vulnerability"
+      "hexproof",
+      "summons an invulnerable hexing effigy that places 3 randomly selected hex areas, chosen from temporal chains, enfeeble, elemental weakness, punishment and vulnerability"
     ],
     [
       1,
@@ -705,11 +705,11 @@
       "immune"
     ]
   ],
-  "Drought Bringer": [
+  "drought bringer": [
     [
-      "Regenerate 1.5% of Life per second",
-      "Removes a Power, Frenzy or Endurance charges on Hit",
-      "Nearby Enemies' Flasks lose 15 Charges every 3 seconds"
+      "regenerate 1.5% of life per second",
+      "removes a power, frenzy or endurance charges on hit",
+      "nearby enemies' flasks lose 15 charges every 3 seconds"
     ],
     [
       1,
@@ -724,14 +724,14 @@
       "flask"
     ]
   ],
-  "Entangler": [
+  "entangler": [
     [
-      "Poisons on Hit",
-      "All damage with Hits can Poison",
-      "+50% to Chaos Resistance",
-      "Applies Grasping Vines to Enemies, which slows them and causes them to take Chaos Damage over Time (3 second cooldown, 2 second global cooldown)",
-      "Moving will break the Vines over time",
-      "Travel Skills will break all Vines instantly, but doing so causes players to take 10% of their maximum Life and Energy Shield as Chaos Damage"
+      "poisons on hit",
+      "all damage with hits can poison",
+      "+50% to chaos resistance",
+      "applies grasping vines to enemies, which slows them and causes them to take chaos damage over time (3 second cooldown, 2 second global cooldown)",
+      "moving will break the vines over time",
+      "travel skills will break all vines instantly, but doing so causes players to take 10% of their maximum life and energy shield as chaos damage"
     ],
     [
       1,
@@ -746,10 +746,10 @@
       "speed"
     ]
   ],
-  "Temporal Bubble": [
+  "temporal bubble": [
     [
-      "Surrounded with a Temporal Bubble which prevents all damage originating from sources outside its radius",
-      "Enemies with the Temporal Bubble have 25% reduced Action Speed, 60% reduced Cooldown Recovery Rate and Debuffs on them expire 40% slower"
+      "surrounded with a temporal bubble which prevents all damage originating from sources outside its radius",
+      "enemies with the temporal bubble have 25% reduced action speed, 60% reduced cooldown recovery rate and debuffs on them expire 40% slower"
     ],
     [
       2,
@@ -764,10 +764,10 @@
       "speed"
     ]
   ],
-  "Treant Horde": [
+  "treant horde": [
     [
-      "Rare minions are replaced with Powerful Spriggans",
-      "50% of Damage from Hits is taken from Rare minions Life before you"
+      "rare minions are replaced with powerful spriggans",
+      "50% of damage from hits is taken from rare minions life before you"
     ],
     [
       1,
@@ -782,9 +782,9 @@
       ""
     ]
   ],
-  "Final Gasp": [
+  "final gasp": [
     [
-      "Summons an immortal ghost of the Rare monster on death that lasts for 5 seconds"
+      "summons an immortal ghost of the rare monster on death that lasts for 5 seconds"
     ],
     [
       2,
@@ -799,18 +799,18 @@
       ""
     ]
   ],
-  "Flame Strider": [
+  "flame strider": [
     [
-      "50% of Physical Damage Converted to Fire Damage",
-      "25% of Physical Damage as Extra Fire Damage",
-      "30% increased Fire Damage",
-      "+40% to Fire Resistance",
-      "Cannot be Scorched",
-      "Ignite on Hit",
-      "200% increased Ignite Damage",
-      "Leaves a Trail of Burning Ground",
-      "Trigger Inferno Bolt when Hit (0.5s global cooldown)",
-      "Rare Minions create Flame Beacons on Death"
+      "50% of physical damage converted to fire damage",
+      "25% of physical damage as extra fire damage",
+      "30% increased fire damage",
+      "+40% to fire resistance",
+      "cannot be scorched",
+      "ignite on hit",
+      "200% increased ignite damage",
+      "leaves a trail of burning ground",
+      "trigger inferno bolt when hit (0.5s global cooldown)",
+      "rare minions create flame beacons on death"
     ],
     [
       5,
@@ -825,17 +825,17 @@
       "immune"
     ]
   ],
-  "Frost Strider": [
+  "frost strider": [
     [
-      "50% of Physical Damage Converted to Cold Damage",
-      "25% of Physical Damage as Extra Cold Damage",
-      "30% increased Cold Damage",
-      "+40% to Cold Resistance",
-      "200% increased Chill Effect",
-      "Immune to Cold Ailments",
-      "Leaves a Trail of Chilling Ground",
-      "Trigger Snow bolt when Hit (1s cooldown, 0.5s global cooldown)",
-      "Rare Minions create Frost Beacons on Death"
+      "50% of physical damage converted to cold damage",
+      "25% of physical damage as extra cold damage",
+      "30% increased cold damage",
+      "+40% to cold resistance",
+      "200% increased chill effect",
+      "immune to cold ailments",
+      "leaves a trail of chilling ground",
+      "trigger snow bolt when hit (1s cooldown, 0.5s global cooldown)",
+      "rare minions create frost beacons on death"
     ],
     [
       4,
@@ -850,16 +850,16 @@
       "immune"
     ]
   ],
-  "Storm Strider": [
+  "storm strider": [
     [
-      "50% of Physical Damage Converted to Lightning Damage",
-      "25% of Physical Damage as Extra Lightning Damage",
-      "30% increased Lightning Damage",
-      "+40% to Lightning Resistance",
-      "Immune to Lightning Ailments",
-      "Leaves a Trail of Shocked Ground",
-      "Trigger Lightning Mirage when Hit (0.75s cooldown, 0.5s global cooldown)",
-      "Rare Minions create Lightning Beacons on Death"
+      "50% of physical damage converted to lightning damage",
+      "25% of physical damage as extra lightning damage",
+      "30% increased lightning damage",
+      "+40% to lightning resistance",
+      "immune to lightning ailments",
+      "leaves a trail of shocked ground",
+      "trigger lightning mirage when hit (0.75s cooldown, 0.5s global cooldown)",
+      "rare minions create lightning beacons on death"
     ],
     [
       4,
@@ -874,15 +874,15 @@
       "immune"
     ]
   ],
-  "Ice Prison": [
+  "ice prison": [
     [
-      "50% of Physical Damage Converted to Cold Damage",
-      "25% of Physical Damage as Extra Cold Damage",
-      "30% increased Cold Damage",
-      "+40% to Cold Resistance",
-      "Immune to Cold Ailments",
-      "25% additional Physical Damage Reduction",
-      "Periodically creates a barrier of Ice around the player for 3 seconds (5 second cooldown, 5 second global cooldown)"
+      "50% of physical damage converted to cold damage",
+      "25% of physical damage as extra cold damage",
+      "30% increased cold damage",
+      "+40% to cold resistance",
+      "immune to cold ailments",
+      "25% additional physical damage reduction",
+      "periodically creates a barrier of ice around the player for 3 seconds (5 second cooldown, 5 second global cooldown)"
     ],
     [
       3,
@@ -897,17 +897,17 @@
       "immune"
     ]
   ],
-  "Magma Barrier": [
+  "magma barrier": [
     [
-      "50% of Physical Damage Converted to Fire Damage",
-      "25% of Physical Damage as Extra Fire Damage",
-      "30% increased Fire Damage",
-      "+40% to Fire Resistance",
-      "25% additional Physical Damage Reduction",
-      "Surrounded by a Magma Barrier that takes 90% of Damage from Hits up to a fixed amount",
-      "When the Magma Barrier is depleted it explodes for massive Fire Damage",
-      "Barrier returns 10 seconds after exploding",
-      "Periodically spawns Fire Volatiles that chase players (9 second cooldown)"
+      "50% of physical damage converted to fire damage",
+      "25% of physical damage as extra fire damage",
+      "30% increased fire damage",
+      "+40% to fire resistance",
+      "25% additional physical damage reduction",
+      "surrounded by a magma barrier that takes 90% of damage from hits up to a fixed amount",
+      "when the magma barrier is depleted it explodes for massive fire damage",
+      "barrier returns 10 seconds after exploding",
+      "periodically spawns fire volatiles that chase players (9 second cooldown)"
     ],
     [
       4,
@@ -922,16 +922,16 @@
       ""
     ]
   ],
-  "Mana Siphoner": [
+  "mana siphoner": [
     [
-      "50% of Physical Damage Converted to Lightning Damage",
-      "25% of Physical Damage as Extra Lightning Damage",
-      "30% increased Lightning Damage",
-      "+40% to Lightning Resistance",
-      "Immune to Lightning Ailments",
-      "Surrounded by a Mana Siphoning Ring Aura",
-      "Enemies in the Aura take Lightning Damage Over Time and lose Mana every second",
-      "Enemies standing inside the Ring are not affected by the Aura"
+      "50% of physical damage converted to lightning damage",
+      "25% of physical damage as extra lightning damage",
+      "30% increased lightning damage",
+      "+40% to lightning resistance",
+      "immune to lightning ailments",
+      "surrounded by a mana siphoning ring aura",
+      "enemies in the aura take lightning damage over time and lose mana every second",
+      "enemies standing inside the ring are not affected by the aura"
     ],
     [
       4,
@@ -946,14 +946,14 @@
       "mana"
     ]
   ],
-  "Storm Herald": [
+  "storm herald": [
     [
-      "50% of Physical Damage Converted to Lightning Damage",
-      "25% of Physical Damage as Extra Lightning Damage",
-      "30% increased Lightning Damage",
-      "+40% to Lightning Resistance",
-      "Immune to Lightning Ailments",
-      "Casts Lightning Storms targeting Enemies"
+      "50% of physical damage converted to lightning damage",
+      "25% of physical damage as extra lightning damage",
+      "30% increased lightning damage",
+      "+40% to lightning resistance",
+      "immune to lightning ailments",
+      "casts lightning storms targeting enemies"
     ],
     [
       3,
@@ -968,11 +968,11 @@
       "immune"
     ]
   ],
-  "Soul Eater": [
+  "soul eater": [
     [
-      "Gains Souls when nearby allies die",
-      "Each Soul grants 5% increased Damage, Attack Speed and Cast Speed",
-      "Summons a Phantasm monster every 4 seconds"
+      "gains souls when nearby allies die",
+      "each soul grants 5% increased damage, attack speed and cast speed",
+      "summons a phantasm monster every 4 seconds"
     ],
     [
       5,
@@ -987,11 +987,11 @@
       ""
     ]
   ],
-  "Corpse Detonator": [
+  "corpse detonator": [
     [
-      "+40% to Fire Resistance",
-      "Creates Corpses nearby (10 second cooldown)",
-      "Ignites nearby Corpses, detonating them after a duration"
+      "+40% to fire resistance",
+      "creates corpses nearby (10 second cooldown)",
+      "ignites nearby corpses, detonating them after a duration"
     ],
     [
       3,
@@ -1006,15 +1006,15 @@
       ""
     ]
   ],
-  "Evocationist": [
+  "evocationist": [
     [
-      "Ignites on Hit",
-      "Shocks on Hit",
-      "All damage with Hits can Ignite",
-      "All damage with Hits can Shock",
-      "All damage with Hits can Chill",
-      "+50% to all Elemental Resistances",
-      "50% of Physical Damage as Extra Damage of a random Element"
+      "ignites on hit",
+      "shocks on hit",
+      "all damage with hits can ignite",
+      "all damage with hits can shock",
+      "all damage with hits can chill",
+      "+50% to all elemental resistances",
+      "50% of physical damage as extra damage of a random element"
     ],
     [
       2,
@@ -1029,10 +1029,10 @@
       ""
     ]
   ],
-  "Mirror Image": [
+  "mirror image": [
     [
-      "Periodically creates several clones (8 second cooldown)",
-      "Clones do not inherit any mods from the original monster"
+      "periodically creates several clones (8 second cooldown)",
+      "clones do not inherit any mods from the original monster"
     ],
     [
       1,
@@ -1047,10 +1047,10 @@
       ""
     ]
   ],
-  "Corrupter": [
+  "corrupter": [
     [
-      "Inflicts Corrupted Blood on Hit",
-      "Inflicts Corrupted Blood when Hit"
+      "inflicts corrupted blood on hit",
+      "inflicts corrupted blood when hit"
     ],
     [
       3,
@@ -1065,12 +1065,12 @@
       ""
     ]
   ],
-  "Invulnerable": [
+  "invulnerable": [
     [
-      "Rare Minions cannot be damaged while Rare monster is alive",
-      "30% chance to Block Attack Damage",
-      "30% chance to Block Spell Damage",
-      "Every 9 seconds cannot be damaged for 4.5 seconds"
+      "rare minions cannot be damaged while rare monster is alive",
+      "30% chance to block attack damage",
+      "30% chance to block spell damage",
+      "every 9 seconds cannot be damaged for 4.5 seconds"
     ],
     [
       3,
@@ -1085,13 +1085,13 @@
       "immune,speed"
     ]
   ],
-  "Crystal-skinned": [
+  "crystal-skinned": [
     [
-      "+40% to all Elemental Resistances",
-      "40% of Physical Damage as Extra Damage of a random Element",
-      "Fires crystals under Player's when they hit you (0.2 second cooldown)",
-      "Crystals deal no damage and despawn after 12 seconds",
-      "When the Rare monster dies all crystals charge up and explode, dealing Cold damage"
+      "+40% to all elemental resistances",
+      "40% of physical damage as extra damage of a random element",
+      "fires crystals under player's when they hit you (0.2 second cooldown)",
+      "crystals deal no damage and despawn after 12 seconds",
+      "when the rare monster dies all crystals charge up and explode, dealing cold damage"
     ],
     [
       3,
@@ -1106,15 +1106,15 @@
       ""
     ]
   ],
-  "Empowered Elements": [
+  "empowered elements": [
     [
-      "Every four seconds gain a new affinity cycling between Fire, Cold, Lightning, Physical and Chaos",
-      "While you have an affinity you have 90% reduced Damage Taken from all other damage types and 50% increased Damage taken of the affinity damage type",
-      "Fire Affinity grants 100% of Physical Damage as Extra Fire Damage",
-      "Cold Affinity grants 100% of Physical Damage as Extra Cold Damage",
-      "Lightning Affinity grants 100% of Physical Damage as Extra Lightning Damage",
-      "Physical Affinity grants 60% increased Physical Damage",
-      "Chaos Affinity grants 30% of Physical Damage as Extra Chaos Damage"
+      "every four seconds gain a new affinity cycling between fire, cold, lightning, physical and chaos",
+      "while you have an affinity you have 90% reduced damage taken from all other damage types and 50% increased damage taken of the affinity damage type",
+      "fire affinity grants 100% of physical damage as extra fire damage",
+      "cold affinity grants 100% of physical damage as extra cold damage",
+      "lightning affinity grants 100% of physical damage as extra lightning damage",
+      "physical affinity grants 60% increased physical damage",
+      "chaos affinity grants 30% of physical damage as extra chaos damage"
     ],
     [
       3,
@@ -1129,12 +1129,12 @@
       "less"
     ]
   ],
-  "Effigy": [
+  "effigy": [
     [
-      "Summons an Effigy of a targeted player (10 second cooldown)",
-      "Effigy links to target player, while linked all damage from Hits taken by the Effigy is also taken by the player as reflected damage",
-      "Effigy can taunt other Enemies to attack it",
-      "Running away from the Effigy will sever the link between it and the player"
+      "summons an effigy of a targeted player (10 second cooldown)",
+      "effigy links to target player, while linked all damage from hits taken by the effigy is also taken by the player as reflected damage",
+      "effigy can taunt other enemies to attack it",
+      "running away from the effigy will sever the link between it and the player"
     ],
     [
       4,
@@ -1149,15 +1149,15 @@
       "reflect"
     ]
   ],
-  "Trickster": [
+  "trickster": [
     [
-      "Suppress Spell Damage",
-      "Prevent +10% of Suppressed Spell Damage",
-      "50% less Damage Over Time Taken",
-      "Non-Damaging Ailments Reflection",
-      "Every 8 seconds go into Flee for 4 seconds",
-      "While fleeing avoid 75% of Damage from Hits, gain 200% increased Movement Speed and 1000% increased Evasion Rating",
-      "While fleeing cast Frost Walls targeting players (1.5 second cooldown, 1.5 second global cooldown)"
+      "suppress spell damage",
+      "prevent +10% of suppressed spell damage",
+      "50% less damage over time taken",
+      "non-damaging ailments reflection",
+      "every 8 seconds go into flee for 4 seconds",
+      "while fleeing avoid 75% of damage from hits, gain 200% increased movement speed and 1000% increased evasion rating",
+      "while fleeing cast frost walls targeting players (1.5 second cooldown, 1.5 second global cooldown)"
     ],
     [
       0,
@@ -1172,12 +1172,12 @@
       ""
     ]
   ],
-  "Opulent": [
+  "opulent": [
     [
-      "5000% increased Quantity of Items Dropped",
-      "20000% increased Rarity of Items Dropped",
-      "Creates Cursed Urns which can contain valuable loot but apply Gambler's Greed for 10 seconds",
-      "Gambler's Greed increases damage taken by 20% and reduces action speed by 10% per stack (maximum 5 stacks)"
+      "5000% increased quantity of items dropped",
+      "20000% increased rarity of items dropped",
+      "creates cursed urns which can contain valuable loot but apply gambler's greed for 10 seconds",
+      "gambler's greed increases damage taken by 20% and reduces action speed by 10% per stack (maximum 5 stacks)"
     ],
     [
       0,
@@ -1192,12 +1192,12 @@
       ""
     ]
   ],
-  "Lunaris-touched": [
+  "lunaris-touched": [
     [
-      "50% increased Damage",
-      "+60% to Cold Resistance",
-      "10% additional Physical Damage Reduction",
-      "Spawns apparitions of Lunaris which use their skills"
+      "50% increased damage",
+      "+60% to cold resistance",
+      "10% additional physical damage reduction",
+      "spawns apparitions of lunaris which use their skills"
     ],
     [
       3,
@@ -1212,12 +1212,12 @@
       ""
     ]
   ],
-  "Solaris-touched": [
+  "solaris-touched": [
     [
-      "50% increased Damage",
-      "+60% to Fire Resistance",
-      "10% additional Physical Damage Reduction",
-      "Spawns apparitions of Solaris which use their skills"
+      "50% increased damage",
+      "+60% to fire resistance",
+      "10% additional physical damage reduction",
+      "spawns apparitions of solaris which use their skills"
     ],
     [
       3,
@@ -1232,12 +1232,12 @@
       ""
     ]
   ],
-  "Arakaali-touched": [
+  "arakaali-touched": [
     [
-      "50% increased Damage",
-      "+60% to Chaos Resistance",
-      "10% additional Physical Damage Reduction",
-      "Spawns apparitions of Arakaali which use their skills"
+      "50% increased damage",
+      "+60% to chaos resistance",
+      "10% additional physical damage reduction",
+      "spawns apparitions of arakaali which use their skills"
     ],
     [
       3,
@@ -1252,12 +1252,12 @@
       ""
     ]
   ],
-  "Brine King-touched": [
+  "brine king-touched": [
     [
-      "50% increased Damage",
-      "+60% to Cold Resistance",
-      "20% additional Physical Damage Reduction",
-      "Spawns apparitions of the Bring King which use their skills"
+      "50% increased damage",
+      "+60% to cold resistance",
+      "20% additional physical damage reduction",
+      "spawns apparitions of the bring king which use their skills"
     ],
     [
       3,
@@ -1272,12 +1272,12 @@
       ""
     ]
   ],
-  "Tukohama-touched": [
+  "tukohama-touched": [
     [
-      "50% increased Damage",
-      "+60% to Fire Resistance",
-      "20% additional Physical Damage Reduction",
-      "Spawns apparitions of Tukohama which use their skills"
+      "50% increased damage",
+      "+60% to fire resistance",
+      "20% additional physical damage reduction",
+      "spawns apparitions of tukohama which use their skills"
     ],
     [
       3,
@@ -1292,12 +1292,12 @@
       ""
     ]
   ],
-  "Abberath-touched": [
+  "abberath-touched": [
     [
-      "50% increased Damage",
-      "+60% to Fire Resistance",
-      "15% additional Physical Damage Reduction",
-      "Spawns apparitions of Abberath which use their skills"
+      "50% increased damage",
+      "+60% to fire resistance",
+      "15% additional physical damage reduction",
+      "spawns apparitions of abberath which use their skills"
     ],
     [
       3,
@@ -1312,12 +1312,12 @@
       ""
     ]
   ],
-  "Shakari-touched": [
+  "shakari-touched": [
     [
-      "50% increased Damage",
-      "+60% to Chaos Resistance",
-      "10% additional Physical Damage Reduction",
-      "Spawns apparitions of Shakari which use their skills"
+      "50% increased damage",
+      "+60% to chaos resistance",
+      "10% additional physical damage reduction",
+      "spawns apparitions of shakari which use their skills"
     ],
     [
       3,
@@ -1332,12 +1332,12 @@
       ""
     ]
   ],
-  "Innocence-touched": [
+  "innocence-touched": [
     [
-      "50% increased Damage",
-      "+40% to all Elemental Resistances",
-      "15% additional Physical Damage Reduction",
-      "Spawns apparitions of Innocence which use their skills"
+      "50% increased damage",
+      "+40% to all elemental resistances",
+      "15% additional physical damage reduction",
+      "spawns apparitions of innocence which use their skills"
     ],
     [
       3,
@@ -1352,12 +1352,12 @@
       ""
     ]
   ],
-  "Kitava-touched": [
+  "kitava-touched": [
     [
-      "50% increased Damage",
-      "+30% to all Elemental Resistances",
-      "25% additional Physical Damage Reduction",
-      "Spawns apparitions of Kitava which use their skills"
+      "50% increased damage",
+      "+30% to all elemental resistances",
+      "25% additional physical damage reduction",
+      "spawns apparitions of kitava which use their skills"
     ],
     [
       3,
