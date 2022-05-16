@@ -16,7 +16,7 @@ def getArgs():
     mods.add_argument('-m', '--n_mods', default=3, type=int,
                      help='Number of random mods to simulate. (Default=3)')
     mods.add_argument('-M', '--mods', default=None, nargs='+', type=str,
-                      help='Space separated list of mods to simulate. For a list of valid mods, check empty_data.json. (Default=None)')
+                      help='Space separated list of mods to simulate. For a list of valid mods, check src/empty_data.json. (Default=None)')
 
     return args.parse_args()
 
@@ -59,14 +59,13 @@ def main():
     with open('appraisal_data.json', 'r') as f:
         data = json.load(f)
 
+    valid_mods = [k for k in data.keys() if k[0] != '_']
     if args.mods == None:
-        mod_names = random.sample([k for k in data.keys() if k[0] != '_'], args.n_mods)
+        mod_names = random.sample(valid_mods, args.n_mods)
     else:
-        with open('empty_data.json', 'r') as f:
-            valid_names = [n for n in json.load(f).keys() if n[0] != '_']
         mod_names = []
         for name in args.mods:
-            if name.lower() in valid_names:
+            if name.lower() in valid_mods:
                 mod_names.append(name.lower())
             else:
                 print(f'{name} not found in valid archnem mod list')

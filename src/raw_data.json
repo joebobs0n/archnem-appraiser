@@ -1,0 +1,433 @@
+{
+    "hasted": [
+        "40% increased movement speed",
+        "100% increased evasion rating",
+        "nearby allies have 30% increased attack and cast speed"
+    ],
+    "gargantuan": [
+        "20% increased damage",
+        "40% increased maximum life",
+        "80% increased area of effect"
+    ],
+    "flameweaver": [
+        "25% of physical damage converted to fire damage",
+        "50% of physical damage as extra fire damage",
+        "50% increased fire damage",
+        "+50% to fire resistance",
+        "+10% to maximum fire resistance",
+        "immune to scorch",
+        "inflicts fire exposure on hit"
+    ],
+    "stormweaver": [
+        "25% of physical damage converted to lightning damage",
+        "50% of physical damage as extra lightning damage",
+        "50% increased lightning damage",
+        "+50% to lightning resistance",
+        "+10% to maximum lightning resistance",
+        "immune to lightning ailments",
+        "inflicts lightning exposure on hit"
+    ],
+    "frostweaver": [
+        "25% of physical damage converted to cold damage",
+        "50% of physical damage as extra cold damage",
+        "50% increased cold damage",
+        "+50% to cold resistance",
+        "+10% to maximum cold resistance",
+        "immune to cold ailments",
+        "inflicts cold exposure on hit"
+    ],
+    "chaosweaver": [
+        "25% of physical damage converted to chaos damage",
+        "15% of non-chaos damage as extra chaos damage",
+        "+50% to chaos resistance",
+        "+10% to maximum chaos resistance",
+        "immune to wither"
+    ],
+    "steel-infused": [
+        "overwhelm 30% physical damage reduction",
+        "40% increased physical damage",
+        "50% additional physical damage reduction",
+        "cannot be stunned"
+    ],
+    "incendiary": [
+        "ignites on hit",
+        "all damage with hits can ignite",
+        "25% increased ignite duration",
+        "300% increased ignite damage",
+        "+75% to fire resistance",
+        "60% less duration of ignites on self"
+    ],
+    "dynamo": [
+        "shocks on hit",
+        "all damage with hits can shock",
+        "25% increased shock effect",
+        "50% increased shock duration",
+        "immune to shock"
+    ],
+    "permafrost": [
+        "25% chance to freeze on hit",
+        "all damage with hits can freeze",
+        "25% increased freeze duration",
+        "immune to freeze and chill"
+    ],
+    "toxic": [
+        "poisons on hit",
+        "all damage with hits can poison",
+        "30% increased poison damage",
+        "30% increased poison duration",
+        "+50% to chaos resistance against damage over time"
+    ],
+    "bloodletter": [
+        "bleed on hit",
+        "100% increased damage with bleeding",
+        "25% increased bleeding duration",
+        "25% reduced damage taken from physical damage over time",
+        "nearby enemies are maimed with 30% reduced movement speed"
+    ],
+    "splinterer": [
+        "skills fire 4 additional projectiles",
+        "30% increased projectile damage",
+        "50% chance to avoid projectiles"
+    ],
+    "deadeye": [
+        "randomly applies poacher's mark, assassin's mark or warlord's mark",
+        "20% increased damage",
+        "60% less damage taken if you have not been hit recently",
+        "200% increased evasion rating if you have been hit recently",
+        "nearby allies have 100% increased accuracy rating and 100% increased critical strike chance"
+    ],
+    "arcane buffer": [
+        "150% faster start of energy shield recharge",
+        "chaos damage taken does not bypass energy shield",
+        "when energy shield is depleted, triggers a weak nova that knocks back and briefly stuns enemies",
+        "nearby allies have 40% of maximum life as extra maximum energy shield"
+    ],
+    "echoist": [
+        "skills repeat two additional times",
+        "200% increased attack and cast speed",
+        "stunned for 1.5 seconds after using a skill"
+    ],
+    "bonebreaker": [
+        "always stuns enemies on hit",
+        "25% chance to double stun duration",
+        "30% reduced attack and cast speed",
+        "100% increased accuracy rating",
+        "cannot be stunned",
+        "nearby allies have 40% increased physical damage"
+    ],
+    "sentinel": [
+        "50% chance to block attack damage",
+        "50% chance to block spell damage",
+        "+10% to maximum chance to block attack damage",
+        "+10% to maximum chance to block spell damage",
+        "triggers a delayed reckoning when hit (1.5 second cooldown)"
+    ],
+    "juggernaut": [
+        "20% increased damage",
+        "+2 to maximum endurance charges",
+        "gain 2 endurance charges every second if you've been hit recently",
+        "30% increased area of effect",
+        "action speed cannot be modified to below base value",
+        "movement speed cannot be modified to below base value",
+        "cannot be stunned"
+    ],
+    "vampiric": [
+        "all damage from hits is leeched as life",
+        "life leech effects are not removed on full life",
+        "200% increased total recovery per second from life leech",
+        "25% increased damage while leeching",
+        "enemies cannot leech from you"
+    ],
+    "overcharged": [
+        "+2 to maximum frenzy, power and endurance charges",
+        "every 3 seconds adds 3 frenzy, power or endurance charges for 9 seconds"
+    ],
+    "consecrator": [
+        "spawns consecrated ground for 6 seconds (6 second cooldown, 4 second global cooldown)",
+        "consecrated ground grants 2% life regenerated per second to allies and 50% reduced effect of curses",
+        "take 30% reduced elemental damage while on consecrated ground"
+    ],
+    "frenzied": [
+        "every 9 seconds become frenzied for 5 seconds",
+        "50% increased damage while frenzied",
+        "50% increased action speed while frenzied",
+        "50% reduced damage taken while frenzied"
+    ],
+    "berserker": [
+        "gains increased damage with life lost up to 40% at zero life",
+        "gains increased movement speed with life lost up to 40% at zero life",
+        "gains increased attack and cast speed with life lost up to 75% at zero life",
+        "gains reduced damage taken with life lost up to 30% at zero life",
+        "immune to culling strike"
+    ],
+    "soul conduit": [
+        "nearby monsters are raised to fight again on death"
+    ],
+    "oppressor": [
+        "nearby enemies have oppression, causing them to deal 30% less damage, take 30% increased damage and have 20% reduced movement speed"
+    ],
+    "bombardier": [
+        "skills fire 2 additional projectiles",
+        "skills chain 2 additional times",
+        "projectiles have 20% chance to be able to chain when colliding with terrain",
+        "projectiles gain damage as they travel farther, dealing up to 60% increased damage with hits to targets",
+        "periodically fires a nova of fire mortars (6 second cooldown)"
+    ],
+    "heralding minions": [
+        "rare minions spawn invulnerable totems on death that cast a lightning nova spell",
+        "totems despawn on death"
+    ],
+    "empowering minions": [
+        "rare minions have 30% increased damage",
+        "rare minions have 100% increased maximum life",
+        "gain a random common archnemesis mod when a rare minion dies (maximum 3)"
+    ],
+    "necromancer": [
+        "rare minions have 40% increased damage",
+        "rare minions have 150% increased maximum life",
+        "30% increased maximum life",
+        "10% of non-chaos damage as extra chaos damage",
+        "summons skeletons and zombies"
+    ],
+    "assassin": [
+        "all hits are critical strikes",
+        "blind on hit",
+        "100% increased blind effect",
+        "take no extra damage from critical strikes",
+        "teleports to distant enemies creating a smoke cloud (3 second cooldown)"
+    ],
+    "rejuvenating": [
+        "regenerate 2% of life per second",
+        "20% increased maximum life",
+        "periodically casts a healing nova that causes nearby allies to regenerate 50% of life over 2 seconds as well as preventing players from recovering life or energy shield (8 second cooldown, 5 second global cooldown)",
+        "healing nova does not affect itself"
+    ],
+    "executioner": [
+        "15% damage with hits per 10% missing enemy life",
+        "immune to culling strike",
+        "nearby enemies cannot recover life or energy shield to above 50%"
+    ],
+    "hexer": [
+        "hexproof",
+        "summons an invulnerable hexing effigy that places 3 randomly selected hex areas, chosen from temporal chains, enfeeble, elemental weakness, punishment and vulnerability"
+    ],
+    "drought bringer": [
+        "regenerate 1.5% of life per second",
+        "removes a power, frenzy or endurance charges on hit",
+        "nearby enemies' flasks lose 15 charges every 3 seconds"
+    ],
+    "entangler": [
+        "poisons on hit",
+        "all damage with hits can poison",
+        "+50% to chaos resistance",
+        "applies grasping vines to enemies, which slows them and causes them to take chaos damage over time (3 second cooldown, 2 second global cooldown)",
+        "moving will break the vines over time",
+        "travel skills will break all vines instantly, but doing so causes players to take 10% of their maximum life and energy shield as chaos damage"
+    ],
+    "temporal bubble": [
+        "surrounded with a temporal bubble which prevents all damage originating from sources outside its radius",
+        "enemies with the temporal bubble have 25% reduced action speed, 60% reduced cooldown recovery rate and debuffs on them expire 40% slower"
+    ],
+    "treant horde": [
+        "rare minions are replaced with powerful spriggans",
+        "50% of damage from hits is taken from rare minions life before you"
+    ],
+    "final gasp": [
+        "summons an immortal ghost of the rare monster on death that lasts for 5 seconds"
+    ],
+    "flame strider": [
+        "50% of physical damage converted to fire damage",
+        "25% of physical damage as extra fire damage",
+        "30% increased fire damage",
+        "+40% to fire resistance",
+        "cannot be scorched",
+        "ignite on hit",
+        "200% increased ignite damage",
+        "leaves a trail of burning ground",
+        "trigger inferno bolt when hit (0.5s global cooldown)",
+        "rare minions create flame beacons on death"
+    ],
+    "frost strider": [
+        "50% of physical damage converted to cold damage",
+        "25% of physical damage as extra cold damage",
+        "30% increased cold damage",
+        "+40% to cold resistance",
+        "200% increased chill effect",
+        "immune to cold ailments",
+        "leaves a trail of chilling ground",
+        "trigger snow bolt when hit (1s cooldown, 0.5s global cooldown)",
+        "rare minions create frost beacons on death"
+    ],
+    "storm strider": [
+        "50% of physical damage converted to lightning damage",
+        "25% of physical damage as extra lightning damage",
+        "30% increased lightning damage",
+        "+40% to lightning resistance",
+        "immune to lightning ailments",
+        "leaves a trail of shocked ground",
+        "trigger lightning mirage when hit (0.75s cooldown, 0.5s global cooldown)",
+        "rare minions create lightning beacons on death"
+    ],
+    "ice prison": [
+        "50% of physical damage converted to cold damage",
+        "25% of physical damage as extra cold damage",
+        "30% increased cold damage",
+        "+40% to cold resistance",
+        "immune to cold ailments",
+        "25% additional physical damage reduction",
+        "periodically creates a barrier of ice around the player for 3 seconds (5 second cooldown, 5 second global cooldown)"
+    ],
+    "magma barrier": [
+        "50% of physical damage converted to fire damage",
+        "25% of physical damage as extra fire damage",
+        "30% increased fire damage",
+        "+40% to fire resistance",
+        "25% additional physical damage reduction",
+        "surrounded by a magma barrier that takes 90% of damage from hits up to a fixed amount",
+        "when the magma barrier is depleted it explodes for massive fire damage",
+        "barrier returns 10 seconds after exploding",
+        "periodically spawns fire volatiles that chase players (9 second cooldown)"
+    ],
+    "mana siphoner": [
+        "50% of physical damage converted to lightning damage",
+        "25% of physical damage as extra lightning damage",
+        "30% increased lightning damage",
+        "+40% to lightning resistance",
+        "immune to lightning ailments",
+        "surrounded by a mana siphoning ring aura",
+        "enemies in the aura take lightning damage over time and lose mana every second",
+        "enemies standing inside the ring are not affected by the aura"
+    ],
+    "storm herald": [
+        "50% of physical damage converted to lightning damage",
+        "25% of physical damage as extra lightning damage",
+        "30% increased lightning damage",
+        "+40% to lightning resistance",
+        "immune to lightning ailments",
+        "casts lightning storms targeting enemies"
+    ],
+    "soul eater": [
+        "gains souls when nearby allies die",
+        "each soul grants 5% increased damage, attack speed and cast speed",
+        "summons a phantasm monster every 4 seconds"
+    ],
+    "corpse detonator": [
+        "+40% to fire resistance",
+        "creates corpses nearby (10 second cooldown)",
+        "ignites nearby corpses, detonating them after a duration"
+    ],
+    "evocationist": [
+        "ignites on hit",
+        "shocks on hit",
+        "all damage with hits can ignite",
+        "all damage with hits can shock",
+        "all damage with hits can chill",
+        "+50% to all elemental resistances",
+        "50% of physical damage as extra damage of a random element"
+    ],
+    "mirror image": [
+        "periodically creates several clones (8 second cooldown)",
+        "clones do not inherit any mods from the original monster"
+    ],
+    "corrupter": [
+        "inflicts corrupted blood on hit",
+        "inflicts corrupted blood when hit"
+    ],
+    "invulnerable": [
+        "rare minions cannot be damaged while rare monster is alive",
+        "30% chance to block attack damage",
+        "30% chance to block spell damage",
+        "every 9 seconds cannot be damaged for 4.5 seconds"
+    ],
+    "crystal-skinned": [
+        "+40% to all elemental resistances",
+        "40% of physical damage as extra damage of a random element",
+        "fires crystals under player's when they hit you (0.2 second cooldown)",
+        "crystals deal no damage and despawn after 12 seconds",
+        "when the rare monster dies all crystals charge up and explode, dealing cold damage"
+    ],
+    "empowered elements": [
+        "every four seconds gain a new affinity cycling between fire, cold, lightning, physical and chaos",
+        "while you have an affinity you have 90% reduced damage taken from all other damage types and 50% increased damage taken of the affinity damage type",
+        "fire affinity grants 100% of physical damage as extra fire damage",
+        "cold affinity grants 100% of physical damage as extra cold damage",
+        "lightning affinity grants 100% of physical damage as extra lightning damage",
+        "physical affinity grants 60% increased physical damage",
+        "chaos affinity grants 30% of physical damage as extra chaos damage"
+    ],
+    "effigy": [
+        "summons an effigy of a targeted player (10 second cooldown)",
+        "effigy links to target player, while linked all damage from hits taken by the effigy is also taken by the player as reflected damage",
+        "effigy can taunt other enemies to attack it",
+        "running away from the effigy will sever the link between it and the player"
+    ],
+    "trickster": [
+        "suppress spell damage",
+        "prevent +10% of suppressed spell damage",
+        "50% less damage over time taken",
+        "non-damaging ailments reflection",
+        "every 8 seconds go into flee for 4 seconds",
+        "while fleeing avoid 75% of damage from hits, gain 200% increased movement speed and 1000% increased evasion rating",
+        "while fleeing cast frost walls targeting players (1.5 second cooldown, 1.5 second global cooldown)"
+    ],
+    "opulent": [
+        "5000% increased quantity of items dropped",
+        "20000% increased rarity of items dropped",
+        "creates cursed urns which can contain valuable loot but apply gambler's greed for 10 seconds",
+        "gambler's greed increases damage taken by 20% and reduces action speed by 10% per stack (maximum 5 stacks)"
+    ],
+    "lunaris-touched": [
+        "50% increased damage",
+        "+60% to cold resistance",
+        "10% additional physical damage reduction",
+        "spawns apparitions of lunaris which use their skills"
+    ],
+    "solaris-touched": [
+        "50% increased damage",
+        "+60% to fire resistance",
+        "10% additional physical damage reduction",
+        "spawns apparitions of solaris which use their skills"
+    ],
+    "arakaali-touched": [
+        "50% increased damage",
+        "+60% to chaos resistance",
+        "10% additional physical damage reduction",
+        "spawns apparitions of arakaali which use their skills"
+    ],
+    "brine king-touched": [
+        "50% increased damage",
+        "+60% to cold resistance",
+        "20% additional physical damage reduction",
+        "spawns apparitions of the bring king which use their skills"
+    ],
+    "tukohama-touched": [
+        "50% increased damage",
+        "+60% to fire resistance",
+        "20% additional physical damage reduction",
+        "spawns apparitions of tukohama which use their skills"
+    ],
+    "abberath-touched": [
+        "50% increased damage",
+        "+60% to fire resistance",
+        "15% additional physical damage reduction",
+        "spawns apparitions of abberath which use their skills"
+    ],
+    "shakari-touched": [
+        "50% increased damage",
+        "+60% to chaos resistance",
+        "10% additional physical damage reduction",
+        "spawns apparitions of shakari which use their skills"
+    ],
+    "innocence-touched": [
+        "50% increased damage",
+        "+40% to all elemental resistances",
+        "15% additional physical damage reduction",
+        "spawns apparitions of innocence which use their skills"
+    ],
+    "kitava-touched": [
+        "50% increased damage",
+        "+30% to all elemental resistances",
+        "25% additional physical damage reduction",
+        "spawns apparitions of kitava which use their skills"
+    ]
+}
